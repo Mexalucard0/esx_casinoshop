@@ -57,7 +57,7 @@ Citizen.CreateThread(function()
 end)
   
 local gym = {
-    {x = 412.31, y = 314.11, z = 103.02}
+    {x = 1115.92,  y = 219.96,  z = -49.44}
 }
 
 Citizen.CreateThread(function()
